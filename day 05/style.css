@@ -20,12 +20,12 @@ body {
 }
 
 .title {
-    font-size: 3em; /* 48px */
+    font-size: 3rem; /* 48px */
     font-weight: 900;
 }
 
 .subtitle {
-    font-size: 1.3em; /* 21px */
+    font-size: 1.3rem; /* 21px */
     font-weight: 300;
     padding: 2em 0 3em;
 }
@@ -43,7 +43,7 @@ body {
     padding: 0.9em 3em; /* 15px 48px */
     cursor: pointer;
 
-    font-size: 1.3em; /* 21px */
+    font-size: 1.3rem; /* 21px */
     font-weight: bold;
     color: #072a2d;
     text-transform: uppercase;
