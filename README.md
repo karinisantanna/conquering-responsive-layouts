@@ -11,5 +11,7 @@ Course [21-day-challenge](https://courses.kevinpowell.co/conquering-responsive-l
 - Day 07: Suggested solution for the Day 5 challenge*
 - Day 08: Flexbox Basics
 - Day 09: A deeper dive into flexbox
+- Day 10: Extra curricular activities*
+- Day 11: Using flexbox for a navigation
 
 \* no challenge
