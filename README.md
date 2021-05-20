@@ -13,5 +13,6 @@ Course [21-day-challenge](https://courses.kevinpowell.co/conquering-responsive-l
 - Day 09: A deeper dive into flexbox
 - Day 10: Extra curricular activities*
 - Day 11: Using flexbox for a navigation
+- Day 12: Getting fancy with navigations
 
 \* no challenge
