@@ -1,0 +1,101 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+h2 {
+    font-size: 2rem;
+}
+
+p {
+    font-family: "Roboto";
+    font-size: 1rem;
+    font-weight: 300;
+    line-height: 29px;
+}
+
+img {
+    width: 100%;
+}
+
+.container {
+    width: 80%;
+    max-width: 1100px;
+    margin: 0 auto;
+    padding: 3rem 0;
+}
+
+.row {
+    display: flex;
+    justify-content: space-between;
+}
+
+@media (max-width: 768px) {
+    html {
+        font-size: 12px;
+    }
+}
+
+.hero {
+    background: #f3eed9;
+    text-align: center;
+    padding: 13rem 0;
+}
+
+.hero span {
+    text-transform: uppercase;
+    font-family: Roboto;
+    font-size: 1.2rem;
+    letter-spacing: 2px;
+    font-weight: 300;
+    margin-bottom: 1rem;
+    display: block;
+}
+
+.hero .title {
+    font-family: "Playfair Display", serif;
+    font-weight: bold;
+    line-height: 60px;
+    font-size: 4rem;
+    color: #824936;
+    max-width: 735px;
+    margin: 0 auto;
+}
+
+.top--container .content {
+    justify-content: space-between;
+}
+
+.top--container h2 {
+    color: #824936;
+    text-align: center;
+}
+
+.top--container p {
+    width: 48%;
+}
+
+.center-container {
+    background: #222c2a;
+}
+
+.container.row h2 {
+    color: #f3eed9;
+}
+
+.container.row p {
+    color: #fff;
+    max-width: 90%;
+}
+
+.container-text {
+    width: 50%;
+}
+
+.image {
+    width: 45%;
+}
+
+.bottom-container {
+    background: #824936;
+}
