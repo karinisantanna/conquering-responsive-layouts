@@ -19,7 +19,8 @@ Course [21-day-challenge](https://courses.kevinpowell.co/conquering-responsive-l
 - Day 16: What breakpoints to use?*
 - Day 17: The viewport meta tag*
 - Day 18: Challenge solution & Mobile-first*
-- Day 19: Day 19 | Mobile navigation challenge
+- Day 19: Mobile navigation challenge
+- Day 20: Mobile navigation challenge solution
 
 
 \* no challenge
