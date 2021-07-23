@@ -20,7 +20,7 @@ Course [21-day-challenge](https://courses.kevinpowell.co/conquering-responsive-l
 - Day 17: The viewport meta tag*
 - Day 18: Challenge solution & Mobile-first*
 - Day 19: Mobile navigation challenge
-- Day 20: Mobile navigation challenge solution
+- Day 20: Mobile navigation challenge solution*
 
 
 \* no challenge
